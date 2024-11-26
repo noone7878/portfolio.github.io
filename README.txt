@@ -1,9 +1,11 @@
 Credits:
 
-	Template: HTML5 UP (html5up.net) 
+	Template: 
+		HTML5 UP (html5up.net) 
 
 	Images:
-		pexels
+		pexels (pexels.com)
+		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
